@@ -1,0 +1,57 @@
+html{
+    background: #e3e3e3;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #000000;;
+    border-top: 10px solid #F7DFE5;
+    background: #ffffff;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    border-bottom: 1px;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2em;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+p{
+    line-height: 1.4em;
+    width: 540px;
+    border-top: 1px;
+}
+
+#Blog{
+    border-top: 1px solid;
+}
+
+.BlogContent{
+    font-family: 'Times New Roman', Times, serif;
+    border-top: 1px ;
+    border-bottom: 2px ;
+    font-size: medium;
+}
+
+.BlogHeader{
+    border-top: 1px dotted #ccc;
+}
+
+img{
+    border-radius:8px
+}
+
+a[href*="https"]{
+    background-color: #D4EDFA;
+}
